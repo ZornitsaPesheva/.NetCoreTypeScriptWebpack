@@ -13,5 +13,8 @@
     "BeforeBuild": [
       "webpack-script"
     ]
+  },
+  "dependencies": {
+    "@balkangraph/orgchart.js": "^6.6.2"
   }
 }
